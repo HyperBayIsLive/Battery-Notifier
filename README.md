@@ -40,7 +40,7 @@ Overcharging or consistently charging to 100% degrades battery health. Most lapt
 
 Want a ready-to-use `.exe` version?
 
-👉 [**Fill out this short form**](#) *(https://forms.gle/MV5Gv1V2KqB5m5tdA)* to request the executable.
+👉 [**Fill out this short form**](https://forms.gle/MV5Gv1V2KqB5m5tdA) to request the executable.
 
 ---
 

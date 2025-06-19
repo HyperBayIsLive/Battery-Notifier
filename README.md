@@ -52,7 +52,7 @@ This repository includes the **core battery monitoring logic** to prove no malic
 
 ## 📩 Feedback or Feature Requests?
 
-Fill out the form above or [open an issue](https://github.com/HyperBayIsLive/BatteryNotifier/issues) to suggest features or report bugs.
+Fill out the form above or [open an issue](https://github.com/HyperBayIsLive/Battery-Notifier/issues) to suggest features or report bugs.
 
 ---
 
